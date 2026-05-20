@@ -41,12 +41,12 @@ Device Physics → Compact Modeling → Circuit Design → Architecture → ML S
 
 | Project | Description | Tools |
 |---|---|---|
-| 🔥 **[MIND-MAC](#)** | Multi-level NVM in-memory MAC for DNN inference · 472.1 GOPS/W · VGG13 in 61ms | Cadence Spectre, FeRAM |
 | ⚙️ **[OoO Processor DSE](#)** | Design space exploration of out-of-order CPUs; ROB/width/branch predictor sweeps | gem5 |
 | 🧮 **[Systolic Array Optimization](#)** | Dataflow & array config search for YOLO, MobileNet, OCR workloads | Scale-Sim |
 | 🧬 **[FeFET CIM for Bioinformatics](#)** | Charge-domain CIM for Needleman–Wunsch · 128× parallelism · 4× memory reduction | Cadence, TCAD |
 | 🏭 **[Full-Custom ASIC Flow](#)** | RTL → synthesis → DRC/LVS-clean layout with parasitic extraction | Cadence Virtuoso, Genus |
 | 🤖 **[DEff-GAN Few-Shot Synthesis](#)** | Few-shot image generation · FID 242 · LPIPS 0.73 with 2–5 training images | PyTorch |
+| 🔥 **[MIND-MAC](#)** | Multi-level NVM in-memory MAC for DNN inference · 472.1 GOPS/W · VGG13 in 61ms | Cadence Spectre, FeRAM |
 
 ---
 
