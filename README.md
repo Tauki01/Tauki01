@@ -6,7 +6,7 @@
 *Ph.D. Candidate @ Penn State · Microsystems Design Lab*
 
 [![Email](https://img.shields.io/badge/Email-mpt5708@psu.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mpt5708@psu.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sadik%20Yasir%20Tauki-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadik-yasir-tauki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sadik%20Yasir%20Tauki-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/sadikyasir)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=flat&logo=githubpages&logoColor=white)](https://sites.google.com/view/tauki/home)
 
 </div>
