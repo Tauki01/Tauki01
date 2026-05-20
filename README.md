@@ -6,8 +6,8 @@
 *Ph.D. Candidate @ Penn State · Microsystems Design Lab*
 
 [![Email](https://img.shields.io/badge/Email-mpt5708@psu.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mpt5708@psu.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sadik%20Yasir%20Tauki-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/sadik-yasir-tauki](https://www.linkedin.com/in/sadikyasir/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=flat&logo=githubpages&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sadik%20Yasir%20Tauki-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/sadik-yasir-tauki])
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=flat&logo=githubpages&logoColor=white)](https://sites.google.com/view/tauki/home)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 I'm a research engineer at the intersection of **hardware architecture**, **emerging memory**, and **ML systems**. My work spans the full stack — from device physics and TCAD modeling up through circuit design, RTL, and system-level DNN accelerator evaluation.
 
-Currently at Penn State's [Microsystems Design Lab](https://www.cse.psu.edu/) under **Dr. Vijaykrishnan Narayanan**, I design processing-in-memory (PIM) architectures that bring compute closer to data, reducing energy and latency for AI inference workloads.
+Currently at Penn State's [Microsystems Design Lab](https://mdl.cse.psu.edu/) under **Dr. Vijaykrishnan Narayanan**, I design processing-in-memory (PIM) architectures that bring compute closer to data, reducing energy and latency for AI inference workloads.
 
 ```
 Device Physics → Compact Modeling → Circuit Design → Architecture → ML Systems
@@ -52,8 +52,8 @@ Device Physics → Compact Modeling → Circuit Design → Architecture → ML S
 
 ## Publications
 
-1. **MIND-MAC**: Multi-Level In-Memory Quasi Non-Destructive MAC in 2T-nC FeRAM — *NVMTS 2025*
-2. **Reliability Trade-offs** in 1T-nC and 2T-nC FeRAM Designs — *IEEE JxCDC*
+1. **Reliability Trade-offs** in 1T-nC and 2T-nC FeRAM Designs — *IEEE JxCDC*
+2. **MIND-MAC**: Multi-Level In-Memory Quasi Non-Destructive MAC in 2T-nC FeRAM — *NVMTS 2025*
 3. **Scalable 3D Integration** of 2T-nC FeRAM with Hundreds of Layer Stacking — *IEDM 2025*
 4. **Vertical 2T-nC FeRAM** Demonstration with BEOL Read Transistor — *VLSI Technology & Circuits 2025*
 5. **Second-Order Anisotropy** Modeling of Monodomain Magnetic Body — *ICECE*
